@@ -18,5 +18,9 @@ In Tamil Nadu there are 38 district but here the dataset contain 31 District fro
   1.Highest Cultivation Crop in Tamil Nadu is Paddy compared to other Crops.
   2.Cholam has lowest Cultivation due to rainfall,climatic changes and other 
   3.Thanjavur,Nagapatinam,Vilupuram,Thiruvarur has highest paddy cultivation 
+Machine Learning Model 
+ Using the XGBoost regression predict the production of the crop 
+Deployment
+ Deploy the model using Flask 
   
   
